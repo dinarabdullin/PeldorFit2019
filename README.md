@@ -9,7 +9,7 @@ PeldorFit2019 is the third version of the program PeldorFit. The changes made to
 
 1) The program is extended to three-spin systems.
 
-2) The structure of the configuration file is reconsidered to make it more general.
+2) The structure of a configuration file is reconsidered to make it more general.
 
 3) New Python scripts for visualization of the PeldorFit results are provided.
 
