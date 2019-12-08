@@ -19,7 +19,7 @@ Further description of the program can be found in the manual and in the paper (
 
 General Information
 =========
-The source code of the program is written in C++. The program uses two external open-access libraries, Intel TBB (https://www.threadingbuildingblocks.org/) and libconfig (http://www.hyperrealm.com/libconfig/). The program was compiled for Linux and Windows and the corresponding executables are stored at XXX.
+The source code of the program is written in C++. The program uses two external open-access libraries, Intel TBB (https://www.threadingbuildingblocks.org/) and libconfig (http://www.hyperrealm.com/libconfig/). The program was compiled for Linux and Windows and the corresponding executables are stored at https://github.com/dinarabdullin/PeldorFit2019/releases.
 
 Copyright
 =========
