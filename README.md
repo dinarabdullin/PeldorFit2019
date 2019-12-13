@@ -1,6 +1,6 @@
 PeldorFit2019
 =========
-A program PeldorFit is developed for analysis of orientation-selective Pulsed ELectron-electron Double Resonance (PELDOR or DEER) data.
+The program PeldorFit is developed for analysis of orientation-selective Pulsed ELectron-electron Double Resonance (PELDOR or DEER) data.
 
 
 ***
