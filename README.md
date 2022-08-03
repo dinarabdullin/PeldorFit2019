@@ -1,5 +1,6 @@
 PeldorFit2019
 =========
+Note: This is the older version of the program PeldorFit. The latest version of the program can be found at: https://github.com/dinarabdullin/PeldorFit2022
 
 Description
 =========
